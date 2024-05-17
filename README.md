@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## NextJS Assignment 1.0
+## NextJS Assignment 2.0
 
 - 1. Create a Next Js application which demonstrate all the routes.
 - Dynamic Route, Nested Route, add Roue Group demo, Add Linking and Navigation, 
